@@ -5,4 +5,8 @@
 
 void hello_world();
 
+void upgraded_fahr_calculate();
+
+void celsius_calculate();
+
 #endif //C_EXERCISES_TASKS_H
